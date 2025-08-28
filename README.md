@@ -19,9 +19,3 @@ This repository contains my solution for the [Spaceship Titanic](https://www.kag
 - Local validation accuracy: ~`80%`  
 - Kaggle Public LB: ~`79.8%`  
 
-## 🚀 How to Run
-```bash
-git clone https://github.com/yourusername/spaceship-titanic.git
-cd spaceship-titanic
-jupyter notebook notebooks/
-## Make sure to download all essential libraries
